@@ -1,0 +1,14 @@
+c:\users\101668629\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+c:\users\101668629\source\repos\Algorithms\Algorithms\bin\Debug\Algorithms.dll.config
+c:\users\101668629\source\repos\Algorithms\Algorithms\bin\Debug\Algorithms.dll
+c:\users\101668629\source\repos\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+c:\users\101668629\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.dll
+c:\users\101668629\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+c:\users\101668629\source\repos\Algorithms\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\Muham\Desktop\Algorithms\Algorithms\bin\Debug\Algorithms.dll.config
+C:\Users\Muham\Desktop\Algorithms\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\Muham\Desktop\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Muham\Desktop\Algorithms\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\Muham\Desktop\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Muham\Desktop\Algorithms\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\Muham\Desktop\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
